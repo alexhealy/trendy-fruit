@@ -29,15 +29,15 @@ body {
 }
 
 p {
-
+  font-family: "Open Sans", sans-serif;
 }
 
 .gravitas {
-  font-family: "Gravitas One";
+  font-family: "Gravitas One", sans-serif;
 }
 
 .rammetto {
-  font-family: "Rammetto One";
+  font-family: "Rammetto One", sans-serif;
 }
 
 .comfortaa {
